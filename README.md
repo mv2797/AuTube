@@ -12,8 +12,7 @@ Follow this
 
 DISABLE ANTI-VIRUS if Necessary
 
-PART 1:
-=======
+# PART 1:
 
 Make sure you are connected to internet.
 
@@ -37,10 +36,9 @@ make sure every step goes without error
 
 After installation succeeds
 
-PART 2:
-=======
+# PART 2:
 
-Copy the ytdl.bat to any folder you would like your videos to be saved
+Copy the AuTube.bat to any folder you would like your videos to be saved
 
 double click --> paste the video link
 

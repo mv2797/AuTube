@@ -35,7 +35,7 @@
   PART 2:
   =======
 
-  Copy the ytdl.bat to any folder you would like your videos to be saved
+  Copy the AuTube.bat to any folder you would like your videos to be saved
 
   double click --> paste the video link
 
